@@ -22,3 +22,5 @@
 - Smajaye Lexical Scope ghar ke example se => 12:00 -13:30
 - Lexical Scoping Done => 14:00
 - Understand the Closure => 14:40 -26:30
+
+### video URL : [Click on this Link](https://youtu.be/VaH09NXQZ58)
